@@ -5,6 +5,11 @@ from zero repo for doing Python devops work
 
 
 ## Create a project scaffold 
+* Create development envrionment that is cloud-based: 
+### colab notebook
+### Github codespaces
+### AWS cloudshell
+### AWS Cloud9 
 
 ## Command-lines Tools 
 
